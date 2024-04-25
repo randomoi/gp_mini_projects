@@ -1,5 +1,5 @@
 Project: Instagram Filter
-Student Name: https://github.com/randomoi
+Author: https://github.com/randomoi
 
 
 Completed basic requirements and extended as follows: 

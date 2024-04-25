@@ -1,8 +1,5 @@
 # PROJECT: Graphics Programming Mini Projects
 
-Student: https://github.com/randomoi
-***
-
 ## TABLE OF CONTENTS
 1. [HOW TO USE](#HOWTOUSE)
 2. [EXAMPLES](#EXAMPLES)
@@ -38,3 +35,5 @@ Student: https://github.com/randomoi
 
 **Project 8: Webcam Piano** 
 <img src="./img/project8_webcam_piano.png" alt="Webcam Piano Image Demo" style="border: 1px solid black;">
+
+*Author: https://github.com/randomoi*
